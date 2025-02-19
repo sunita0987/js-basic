@@ -21,3 +21,5 @@ function myFunction() {
 }
 myFunction();
 console.log(localVar); 
+
+
